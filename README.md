@@ -1,8 +1,5 @@
 ## Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=VIvekjoshi11&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivekjoshi11&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VIvekjoshi11&layout=compact&theme=radical)
-![Profile views](https://komarev.com/ghpvc/?username=Vivekjoshi11&label=Profile%20views&color=0e75b6&style=flat)
+
 
 
 
@@ -20,4 +17,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=VIvekjoshi11&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivekjoshi11&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VIvekjoshi11&layout=compact&theme=radical)
+![Profile views](https://komarev.com/ghpvc/?username=Vivekjoshi11&label=Profile%20views&color=0e75b6&style=flat)
 -->
