@@ -75,17 +75,7 @@
 
 ---
 
-## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [**Project One**](https://github.com/Vivekjoshi11) | Short description of what it does | React, Node.js |
-| [**Project Two**](https://github.com/Vivekjoshi11) | A dApp for ... | Solidity, Hardhat, Ethers.js |
-| [**Project Three**](https://github.com/Vivekjoshi11) | Full stack app that ... | Next.js, MongoDB |
-
-> ✏️ Replace the rows above with your real repos and links.
-
----
 
 ## 🌐 Let's Connect
 
